@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="GB"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/vanguard/Java/my-app/target/surefire/surefirebooter7440590713767150675.jar /home/vanguard/Java/my-app/target/surefire 2020-01-20T06-24-27_275-jvmRun1 surefire10312817201141124336tmp surefire_09227586146678536982tmp"/>
+    <property name="sun.java.command" value="/home/vanguard/Java/my-app/target/surefire/surefirebooter11774097084851969672.jar /home/vanguard/Java/my-app/target/surefire 2020-01-20T06-51-45_516-jvmRun1 surefire930260127731186549tmp surefire_017504152207188408993tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/vanguard/Java/my-app/target/test-classes:/home/vanguard/Java/my-app/target/classes:/home/vanguard/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/vanguard/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -32,7 +32,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/vanguard/Java/my-app/target/surefire/surefirebooter7440590713767150675.jar"/>
+    <property name="surefire.real.class.path" value="/home/vanguard/Java/my-app/target/surefire/surefirebooter11774097084851969672.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.5+10-post-Ubuntu-0ubuntu1.1"/>
     <property name="user.name" value="vanguard"/>
